@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - enemy
+  - wall
+  - right_door
+  - left_door
+  - heart
+  - key
+  - bottom_door
+  - weapon
+  - top_door
+  - bomb
+  - boomerang
+  - item
+  - water
+  - ball
+  - bow
+  - 2D_wall
+  - heart_container
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Walls
+  - Water
+  - UI
+  - Player
+  - Weapon
+  - Obstacle
+  - Ball
+  - 2D Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
